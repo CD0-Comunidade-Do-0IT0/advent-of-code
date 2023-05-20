@@ -54,8 +54,8 @@ These README.md files will provide language-specific instructions, dependencies,
 
 ## License
 
-This repository is licensed under the MIT License. You are free to use the code in this repository for personal or educational purposes. However, please note that the Advent of Code challenges themselves have their own terms of use, which can be found on the [Advent of Code website](https://adventofcode.com/about). Make sure to comply with those terms when using the challenge descriptions or inputs.
+This repository is licensed under the [MIT License](LICENSE). You are free to use the code in this repository for personal or educational purposes. However, please note that the Advent of Code challenges themselves have their own terms of use, which can be found on the [Advent of Code website](https://adventofcode.com/about). Make sure to comply with those terms when using the challenge descriptions or inputs.
 
-If you decide to contribute to this repository, your contributions will be also covered under the MIT License and become part of the open-source community.
+If you decide to contribute to this repository, your contributions will be also covered under the [MIT License](LICENSE) and become part of the open-source community.
 
 Happy coding!
